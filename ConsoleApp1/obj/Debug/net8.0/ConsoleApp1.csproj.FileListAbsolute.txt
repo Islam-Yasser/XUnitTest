@@ -1,0 +1,34 @@
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Eslam\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+G:\TOT Project\UnitTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+G:\TOT Project\UnitTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+G:\TOT Project\UnitTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+G:\TOT Project\UnitTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+G:\TOT Project\UnitTest\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+G:\TOT Project\UnitTest\ConsoleApp1\bin\Debug\net8.0\xunit.abstractions.dll
+G:\TOT Project\UnitTest\ConsoleApp1\bin\Debug\net8.0\xunit.assert.dll
+G:\TOT Project\UnitTest\ConsoleApp1\bin\Debug\net8.0\xunit.core.dll
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+G:\TOT Project\UnitTest\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
